@@ -62,7 +62,7 @@ I'm a passionate AI and Machine Learning enthusiast currently in my third year a
 
 ## 🌐 Let's Connect!
 <p align="center">
-  <a href="mailto:11410120221025@stud.cu.edu.eg">
+  <a href="mailto:alaawae1016@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/alaa-wael-338bb02a9/">
