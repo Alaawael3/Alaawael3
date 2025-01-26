@@ -11,7 +11,7 @@ I'm a passionate AI and Machine Learning enthusiast currently in my third year a
 
 ## 🛠️ Skills & Tools
 
-### 🚀 **Programming Languages**
+### **Programming Languages**
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=black" alt="C++">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=black" alt="C">
@@ -21,7 +21,7 @@ I'm a passionate AI and Machine Learning enthusiast currently in my third year a
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black" alt="CSS">
 </p>
 
-### 📚 **Frameworks & Libraries**
+### **Frameworks & Libraries**
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=black" alt="TensorFlow">
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=black" alt="Keras">
@@ -33,13 +33,13 @@ I'm a passionate AI and Machine Learning enthusiast currently in my third year a
   <img src="https://img.shields.io/badge/HuggingFace-FF6600?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=black" alt="Hugging Face">
 </p>
 
-### 📊 **Data Visualization**
+### **Data Visualization**
 <p>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=black" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=seaborn&logoColor=white&labelColor=black" alt="Seaborn">
 </p>
 
-### 🔧 **Tools**
+### **Tools**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="GitHub">
