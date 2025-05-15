@@ -1,6 +1,6 @@
 <h1 align="center">Alaa Wael</h1>
 <p align="center">
-  <b>AI Enthusiast | Machine Learning Engineer | Data Science Practitioner</b>
+  <b>NLP Engineer | Data Scientist</b>
 </p>
 
 ---
